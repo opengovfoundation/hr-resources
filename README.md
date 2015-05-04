@@ -12,7 +12,7 @@ Included are:
 
 Please suggest any changes that you think we should make, or contribute your own to the repo!
 
-There are other useful documents to use in our [HR Policy Repository](https://github.com/opengovfoundation/hr-resources), including our actual Human Resources Policy Manual.
+**There are other useful documents to use in our [HR Policy Repository](https://github.com/opengovfoundation/hr-manual), including our actual Human Resources Policy Manual.**
 
 
 ## Disclaimer
