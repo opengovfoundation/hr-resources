@@ -16,11 +16,12 @@ Please suggest any changes that you think we should make, or contribute your own
 
 **There are other useful documents to use in our [HR Policy Repository](https://github.com/opengovfoundation/hr-manual), including our actual Human Resources Policy Manual.**
 
-
 ## Disclaimer
 This was created based on United States law, and if you're not in the US the policies here might not be legal wherever you are.
 
-We are not lawyers, and cannot give you legal advice or tell you what is best for your organization. If you have any questions, ask an actual lawyer.
+We are not lawyers, and cannot give you legal advice or tell you what is best for your organization.  You should have an actual lawyer review these documents before you use them in the first place.  If you have any questions, ask a lawyer.
+
+We cannot be held responsible for any legal trouble that these documents get you into.  You're using them of your own accord.  We're providing them as-is with no warranty.  Seriously, please don't sue us.
 
 ## Available Files
 
@@ -30,7 +31,6 @@ Document | Description | | | |
 --- | --- | --- | --- | --- |
 Status Messages | [Markdown](https://rawgit.com/opengovfoundation/hr-manual/master/markdown/status-messages.md) | [HTML](https://rawgit.com/opengovfoundation/hr-manual/master/html/status-messages.html) | [PDF](https://rawgit.com/opengovfoundation/hr-manual/master/pdf/status-messages.pdf) | [Microsoft Word](https://rawgit.com/opengovfoundation/hr-manual/master/docx/status-messages.docx)
 Timesheets | [Markdown](https://rawgit.com/opengovfoundation/hr-manual/master/markdown/timesheets.md) | [HTML](https://rawgit.com/opengovfoundation/hr-manual/master/html/timesheets.html) | [PDF](https://rawgit.com/opengovfoundation/hr-manual/master/pdf/timesheets.pdf) | [Microsoft Word](https://rawgit.com/opengovfoundation/hr-manual/master/docx/timesheets.docx)
-
 
 ## Contributing
 
