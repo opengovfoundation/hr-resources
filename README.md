@@ -9,6 +9,7 @@ There are a variety of documents here which may or may not be relevant to your o
 
 Included are:
 
+* [Employee Review Form](./markdown/employee-review.md) - A simple form for employee reviews, focusing on goal-setting for the employee.
 * [Status Messages](./markdown/status-messages.md) - How to write effective daily stand-up or status emails or messages.  We have every employee send a message to the team every morning.  We've found these very useful for small, decentralized teams to keep everyone in the loop.
 * [Timesheets](./markdown/timesheets.md) Guide - How to enter time into your timesheet application.  We use Harvest, but this is general enough to adapt this for any tool - this is process-oriented, not software-oriented.
 
@@ -31,6 +32,7 @@ Document | Description | | | |
 --- | --- | --- | --- | --- |
 Status Messages | [Markdown](https://rawgit.com/opengovfoundation/hr-manual/master/markdown/status-messages.md) | [HTML](https://rawgit.com/opengovfoundation/hr-manual/master/html/status-messages.html) | [PDF](https://rawgit.com/opengovfoundation/hr-manual/master/pdf/status-messages.pdf) | [Microsoft Word](https://rawgit.com/opengovfoundation/hr-manual/master/docx/status-messages.docx)
 Timesheets | [Markdown](https://rawgit.com/opengovfoundation/hr-manual/master/markdown/timesheets.md) | [HTML](https://rawgit.com/opengovfoundation/hr-manual/master/html/timesheets.html) | [PDF](https://rawgit.com/opengovfoundation/hr-manual/master/pdf/timesheets.pdf) | [Microsoft Word](https://rawgit.com/opengovfoundation/hr-manual/master/docx/timesheets.docx)
+Employee Review Form | [Markdown](https://rawgit.com/opengovfoundation/hr-manual/master/markdown/employee-review.md) | [HTML](https://rawgit.com/opengovfoundation/hr-manual/master/html/employee-review.html) | [PDF](https://rawgit.com/opengovfoundation/hr-manual/master/pdf/employee-review.pdf) | [Microsoft Word](https://rawgit.com/opengovfoundation/hr-manual/master/docx/employee-review.docx)
 
 ## Contributing
 
